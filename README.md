@@ -41,12 +41,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-🔹 **[Project Name 1](#)** - Brief description of what this project does.  
-🔹 **[Project Name 2](#)** - Another cool project you worked on!  
-
----
-
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjith-sridhar)  
