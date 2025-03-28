@@ -25,7 +25,11 @@
 
 ### 🛠️ Internships & Certifications
 
-- 💼 **Internships:** Java Development, Data Analysis, Web Development, AI.
+- 💼 **Internships:**
+  - Java Development
+  - Data Analysis
+  - Web Development
+  -  AI
 - 🎓 **Certifications:**
   - Machine Learning _(NPTEL)_
   - Full-Stack Development _(GeeksforGeeks)_
