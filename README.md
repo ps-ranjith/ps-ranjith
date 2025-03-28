@@ -1,6 +1,6 @@
 # Hi there, I'm Ranjith! 👋
 
-<h3 align="center">Full-Stack Developer | AI & Data Enthusiast | Final Year CSE Student</h3>
+<h3>Full-Stack Developer | AI & Data Enthusiast | Final Year CSE Student</h3>
 
 ---
 
