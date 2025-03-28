@@ -65,9 +65,12 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ranjith-GitHub&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjith-GitHub&theme=tokyonight" alt="GitHub Streak">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith-GitHub&layout=compact&theme=tokyonight" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=ps-ranjith&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+
+<img src="https://streak-stats.demolab.com/?user=ps-ranjith&theme=tokyonight" alt="GitHub Streak">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-ranjith&layout=compact&theme=tokyonight" alt="Top Languages">
+
 </p>
 
 ---
