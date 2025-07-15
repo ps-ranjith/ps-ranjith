@@ -9,7 +9,7 @@
 - 🎓 Final-year **Computer Science & Engineering** student at **Knowledge Institute of Technology**.
 - 📍 Based in **Salem, Tamil Nadu, India**.
 - 💻 Passionate about **Software Development, Artificial Intelligence, and Data Analysis**.
-- 🏆 **CGPA:** 8.2 | **SSLC:** 93.8% | **HSC:** 92.5%.
+- 🏆 **CGPA:** 8.9 | **SSLC:** 93.8% | **HSC:** 92.5%.
 - 🚀 Love solving problems on **LeetCode (550+ problems solved)** & **GeeksforGeeks (450+ problems solved)**.
 - 🔍 Always eager to **learn, innovate, and build impactful projects**.
 
