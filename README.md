@@ -32,8 +32,6 @@
 
 # 🧠 Competitive Programming
 
-<p align="center">
-
 <a href="https://leetcode.com/ranjithps/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-800%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
