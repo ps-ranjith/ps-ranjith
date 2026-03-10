@@ -29,12 +29,19 @@
 - Customizing **Backoffice configurations and data models**.
 
 ---
+# 🧠 Competitive Programming
 
-# 🧠 Problem Solving
+<p align="center">
 
-- 🧩 **800+ Problems Solved — LeetCode**
-- 🧩 **750+ Problems Solved — GeeksforGeeks**
+<a href="https://leetcode.com/ranjithps">
+  <img src="https://img.shields.io/badge/LeetCode-800%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
+<a href="https://auth.geeksforgeeks.org/user/ranjithsridhar">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-750%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 # 🚀 Tech Stack
@@ -90,13 +97,14 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ps-ranjith&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ps-ranjith&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img src="https://streak-stats.demolab.com/?user=ps-ranjith&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=ps-ranjith&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-ranjith&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-ranjith&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 
 ---
 
