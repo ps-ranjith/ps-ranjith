@@ -29,19 +29,23 @@
 - Customizing **Backoffice configurations and data models**.
 
 ---
+
 # 🧠 Competitive Programming
 
 <p align="center">
 
-<a href="https://leetcode.com/ranjithps">
-  <img src="https://img.shields.io/badge/LeetCode-800%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/ranjithps/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-800%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/ranjithsridhar">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-750%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://auth.geeksforgeeks.org/user/ranjithsridhar/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-750%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
+
 ---
 
 # 🚀 Tech Stack
