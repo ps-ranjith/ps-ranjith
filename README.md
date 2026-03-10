@@ -16,46 +16,30 @@
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
 ### 🏢 Associate Engineer — KaarTech
 
-- Developing **SAP Commerce Cloud (Hybris)** enterprise e-commerce solutions.
-- Building and customizing **Spartacus storefront using Angular**.
-- Implementing **custom components, services, guards, and modals**.
-- Integrating **OCC APIs between frontend and SAP Commerce backend**.
+- Developing **SAP Commerce Cloud (Hybris)** enterprise e-commerce applications.
+- Customizing **Spartacus storefront using Angular**.
+- Implementing **custom components, modals, services, guards, and routing**.
+- Integrating **OCC APIs between Spartacus and SAP Commerce backend**.
 - Working with **ImpEx scripts for catalog and product data management**.
-- Implementing **Connectors, Adapters, and Facade architecture in Spartacus**.
+- Implementing **Connectors, Adapters, and Facade architecture**.
 - Customizing **Backoffice configurations and data models**.
 
 ---
 
-## 🔥 Projects & Experience
+# 🧠 Problem Solving
 
-### 💡 Notable Projects
-
-- **COVID-19 Test Case Analysis** _(IBM Cognos, Data Analysis)_
-- **Bug Tracking System** _(Java-based application)_
-- **AI-powered Petition Management System** _(React.js, Flask, MySQL, Google Generative AI)_
-
-### 🛠️ Internships & Certifications
-
-- 💼 **Internships**
-  - Java Development
-  - Data Analysis
-  - Web Development
-  - AI Development
-
-- 🎓 **Certifications**
-  - Machine Learning _(NPTEL)_
-  - Full-Stack Development _(GeeksforGeeks)_
-  - Software Engineering _(HackerRank)_
+- 🧩 **800+ Problems Solved — LeetCode**
+- 🧩 **750+ Problems Solved — GeeksforGeeks**
 
 ---
 
-## 🚀 Tech Stack  
+# 🚀 Tech Stack
 
-### 💻 Programming Languages  
+## 💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -66,32 +50,33 @@
 
 ---
 
-### 🌐 Web Development  
+## 🌐 Frontend Development
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![SAP Spartacus](https://img.shields.io/badge/SAP%20Spartacus-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CD6799?style=for-the-badge&logo=sass&logoColor=white)
 
 ---
 
-### 🛒 SAP Commerce Development  
+## ⚙️ Backend & Platform
 
-- SAP Commerce Cloud (Hybris)
-- Spartacus Storefront
-- OCC APIs
-- ImpEx
-- Data Modeling
-- Backoffice Customization
-- Connectors & Adapters
-- Facade Architecture
-- CMS Components
+![SAP Commerce](https://img.shields.io/badge/SAP%20Commerce%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
 
 ---
 
-### 🛠️ Tools & Technologies  
+## 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🛠️ Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -101,27 +86,27 @@
 
 ---
 
-## 📈 GitHub Stats  
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ps-ranjith&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ps-ranjith&show_icons=true&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com/?user=ps-ranjith&theme=tokyonight" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com/?user=ps-ranjith&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-ranjith&layout=compact&theme=tokyonight" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-ranjith&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📫 Connect with Me  
+# 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjith-sridhar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjith-sridhar)
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/psranjith2004)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/psranjith2004)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://ranjith-porfolio.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://ranjith-porfolio.vercel.app/)
 
 ---
 
